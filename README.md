@@ -39,13 +39,13 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card & Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&locale=en&hide_border=true&count_private=true" alt="Mahfudz's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  </a>
+  <!-- GitHub Stats Card -->
+  <img align="center" src="https://github-readme-stats-eight-themr.vercel.app/api?username=NAMA_USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <br><br>
+
+  <!-- Top Languages Card -->
+  <img align="center" src="https://github-readme-stats-eight-themr.vercel.app/api/top-langs/?username=NAMA_USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -69,5 +69,5 @@
 
 <div align="center">
   <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NAMA_USERNAME_GITHUB_KAMU&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
