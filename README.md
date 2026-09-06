@@ -35,13 +35,6 @@
 
 ---
 
-### 🚀 Projects & Portfolio
-
-- 📱 **SIREPEN-BestCell** → Sistem Rekomendasi + Penjualan Handphone
-- 🌐 **Personal Portfolio** → [vyyy.my.id](https://vyyy.my.id)
-
----
-
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
