@@ -1,37 +1,40 @@
-# 👋 Hi, I’m Mahfudz Alfanani Syaviqi  
+<div align="center">
 
-🎓 Fresh Graduate – Informatics Engineering @ Universitas Muhammadiyah Gresik (2025)  
-💻 Software Developer | Web Developer | Problem Solver  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mahfudz+Alfanani+Syaviqi;Software+Developer+%7C+Web+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
 
----
+  <br><br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=fff&animation=twinkling" width="100%" />
 
-### 🔧 Tech Stack  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+  <p align="center">
+    🎓 <b>Fresh Graduate in Informatics Engineering</b> from <i>Universitas Muhammadiyah Gresik (2025)</i>
+  </p>
 
----
+  <p align="center">
+    <a href="https://vyyy.my.id" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-vyyy.my.id-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    </a>
+    <a href="mailto:mahfudzworksss@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mahfudzworksss%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://wa.me/6282140363716" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-+62%20821--4036--3716-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+  </p>
 
-### 🚀 Projects & Portfolio  
-- 📱 **SIREPEN-BestCell** → Sistem Rekomendasi + Penjualan Handphone  
-- 🌐 [Portfolio Website](https://vyyy.my.id)  
-
----
-
-### 😎 Fun Fact  
-> Kalau bug nggak hilang, biasanya saya coba `npm install patience` dulu.  
-
----
-
-### 📫 Contact Me  
-📩 Email: **mahfudzworksss@gmail.com**  
-🌍 Website: [vyyy.my.id](https://vyyy.my.id)  
-📱 WhatsApp: [+62 821-4036-3716](https://wa.me/6282140363716)  
+</div>
 
 ---
+
+### 💫 About Me
+
+```javascript
+const mahfudz = {
+    code: ["Laravel", "PHP", "JavaScript", "React", "Tailwind CSS"],
+    tools: ["MySQL", "Figma", "Git"],
+    architecture: ["REST APIs", "MVC Pattern"],
+    currentFocus: "Building scalable web apps & mastering frontend/backend ecosystem",
+    funFact: "Kalau bug nggak hilang, biasanya saya coba `npm install patience` dulu."
+};
