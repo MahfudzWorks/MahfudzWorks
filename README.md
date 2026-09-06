@@ -35,22 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img align="center" src="https://github-readme-stats-eight-themr.vercel.app/api?username=MahfudzWorks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MahfudzWorks's GitHub Stats" />
-  
-  <br><br>
-
-  <!-- Top Languages Card -->
-  <img align="center" src="https://github-readme-stats-eight-themr.vercel.app/api/top-langs/?username=MahfudzWorks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ### 📫 Contact Me
 
 <p align="left">
